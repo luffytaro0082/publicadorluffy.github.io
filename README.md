@@ -9,7 +9,7 @@ publicadorluffy
 "La Suerte del Día" es una página web que te brinda la oportunidad de descubrir tu número de la suerte. Ingresa un número especial que tenga un significado personal para ti, y mediante un cálculo astral, obtendrás tu número de la suerte exacto. ¡Usa este número mágico en sorteos y juegos de azar para aumentar tus posibilidades de éxito!
 
 ## Características
-- Interfaz Atractiva: La página cuenta con un diseño atractivo y dinámico, con una combinación de colores en gradiente que inspira buena suerte.
+- Interfaz Atractiva: La página cuenta con un diseño atractivo y dinámico, con una combinación de colores en gradiente que inspira buena suerte..
 - Cálculo Preciso: Gracias a la fórmula especial utilizada, el número de la suerte se muestra con precisión, sin decimales ni redondeos innecesarios.
 - Fácil de Usar: Simplemente ingresa tu número personal en el campo provisto y presiona el botón "Calcular Suerte" para obtener tu número mágico.
 
