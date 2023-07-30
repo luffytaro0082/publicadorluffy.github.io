@@ -17,11 +17,6 @@ publicadorluffy
 _Inserta aquí una captura de pantalla de la página web en acción._![image](https://github.com/luffytaro0082/publicadorluffy.github.io/assets/140923630/1aed6570-7c2c-41da-b986-0d03c1ace536)
 
 
-## Cómo Ejecutar el Programa
-1. Copia y pega el código HTML proporcionado en un archivo con extensión ".html".
-2. Abre el archivo HTML en tu navegador web.
-3. La página "La Suerte del Día" se cargará y podrás comenzar a descubrir tu número de la suerte.
-
 ## Tecnologías Utilizadas
 - HTML5, CSS3 y JavaScript: Estas tecnologías han sido empleadas para la implementación de la página web interactiva y sus funcionalidades.
 
