@@ -27,6 +27,6 @@ _Inserta aquí una captura de pantalla de la página web en acción._![image](ht
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ## Contacto
-Si tienes dudas o preguntas , no dudes en ponerte en contacto con nosotros a través de [correo: lasuertedetudia.com](mailto:correo:lasuertedetudia@gmail.com).
+Si tienes dudas o preguntas , no dudes en ponerte en contacto con nosotros a través de [correo: lasuertedetudia@gmail..com](mailto:correo:lasuertedetudia@gmail.com).
 
 ¡Esperamos que descubras tu número de la suerte y que tengas mucha suerte en tus próximas jugadas!
