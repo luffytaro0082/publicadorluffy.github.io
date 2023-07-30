@@ -5,8 +5,8 @@ publicadorluffy
 ![La Suerte del Día](screenshot.png)![image](https://github.com/luffytaro0082/publicadorluffy.github.io/assets/140923630/52fb3a04-cf60-4103-a356-06331dc9da2b)
 
 
-## Descripción
-"La Suerte del Día" es una página web que te brinda la oportunidad de descubrir tu número de la suerte. Ingresa un número especial que tenga un significado personal para ti, y mediante un cálculo especial, obtendrás tu número de la suerte exacto. ¡Usa este número mágico en sorteos y juegos de azar para aumentar tus posibilidades de éxito!
+## Como Funciona
+"La Suerte del Día" es una página web que te brinda la oportunidad de descubrir tu número de la suerte. Ingresa un número especial que tenga un significado personal para ti, y mediante un cálculo astral, obtendrás tu número de la suerte exacto. ¡Usa este número mágico en sorteos y juegos de azar para aumentar tus posibilidades de éxito!
 
 ## Características
 - Interfaz Atractiva: La página cuenta con un diseño atractivo y dinámico, con una combinación de colores en gradiente que inspira buena suerte.
@@ -27,6 +27,6 @@ _Inserta aquí una captura de pantalla de la página web en acción._![image](ht
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ## Contacto
-Si tienes dudas o preguntas , no dudes en ponerte en contacto con nosotros a través de [correo: lasuertedetudia@gmail..com](mailto:correo:lasuertedetudia@gmail.com).
+Si tienes dudas o preguntas , no dudes en ponerte en contacto con nosotros a través de [correo: lasuertedetudia@gmail.com](mailto:correo:lasuertedetudia@gmail.com).
 
 ¡Esperamos que descubras tu número de la suerte y que tengas mucha suerte en tus próximas jugadas!
